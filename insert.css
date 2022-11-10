@@ -1,0 +1,253 @@
+html,body{
+    margin: 0;
+    overflow: hidden;
+    height: 100vh;
+    width: 150vh;
+}
+
+.botao{
+    position: absolute;
+    left: 8%;
+    right: 0%;
+    height: 40%;
+    top: -0.2%;
+    bottom: 27.68%;
+    background-color: #173455;
+}
+
+.edicao{
+    position: absolute;
+    left: 8%;
+    right: 0%;
+    top: 39%;
+    bottom: 0%;
+    height: 61%;
+    background-color: lightgray;
+}
+
+.menu{
+    position: absolute;
+    width: 8%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #FE5B00 0%, #FFBD98 97.92%);
+
+}
+
+.infos{
+    position: absolute;
+    left: 8%;
+    right: -3.9%;
+    top: -0.2%;
+    height: 40%;
+    background-color: midnightblue;
+}
+
+
+.tabela{
+    position: absolute;
+    left: 8%;
+    right: -3.9%;
+    top: 40%;
+    bottom: -0.2%;
+    height: 60%;
+    background-color: lightgray;
+
+}
+
+#imgmenu {
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 22px;
+}
+
+#imgmenu2 {
+    width: 50px;
+    height: 50px;
+    align-items: center;
+    margin-left: 26%;
+    margin-top: 24%;
+}
+
+#menu1{
+    margin-left: 2px;
+    list-style: none;
+    align-items: center;
+
+}
+
+li:hover {
+    background-color: #FFBD98;
+}
+
+#imgmenu1 {
+    width: 80px;
+    height: 50px;
+    align-items: center;
+    margin-left: 12%;
+    margin-top: 21px;
+}
+
+#logo {
+    margin-top: 198%;
+    height: 90px;
+    width: 100px;
+}
+
+
+#escrita{
+    color: white;
+
+}
+
+#escrita1{
+    color: white;
+    margin-left: 10px;
+
+}
+
+#escrita2{
+    color: white;
+    margin-left: 42px;
+
+}
+
+#escrita3{
+    color: white;
+    margin-left: 44px;
+
+}
+
+#escrita4{
+    color: white;
+    margin-left:10px;
+
+}
+
+#escrita5{
+    color: white;
+    margin-left: -5px;
+
+}
+
+#escrita6{
+    color: white;
+    margin-left: -22px;
+
+}
+
+
+#input{
+    width: 500px;
+    height: 20px;
+    border: solid black;
+}
+
+#input2{
+    width: 225px;
+    height: 20px;
+    border: solid black;
+}
+
+#input3{
+    width: 118.5px;
+    height: 20px;
+    border: solid black;
+}
+
+#input4{
+    width: 202px;
+    height: 20px;
+    border: solid black;
+}
+
+#input5{
+    width: 192px;
+    height: 20px;
+    border: solid black;
+}
+
+#entrada {
+    margin-top: 35px;
+    margin-left: 70px;
+}
+
+
+#entrada1 {
+    margin-top: 15px;
+    margin-left: 24px;
+}
+
+#entrada2 {
+    margin-left: 10px;
+}
+
+#entrada3 {
+    margin-left: 12px;
+}
+
+#entrada4 {
+    margin-left: 35px;
+}
+
+
+#pesquisa {
+    border: none;
+    color: white;
+    margin-left: 30px;
+    height: 24px;
+    width: 175px;
+    margin-top: 164px;
+    background: linear-gradient(180deg, #FE5B00 0%, #FFBD98 97.92%);
+    position: relative;
+    top: -104px;
+    left: 0px;
+}
+
+#pesquisa1 {
+    border: none;
+    color: white;
+    margin-left: 30px;
+    height: 24px;
+    width: 175px;
+    margin-top: 164px;
+    background: linear-gradient(180deg, #FE5B00 0%, #FFBD98 97.92%);
+    position: relative;
+    top: -145px;
+    left: -210px;
+}
+
+#pesquisa:active{
+    height: 27px;
+    width: 178px;
+    margin-top: 162px;
+}
+
+#pesquisa1:active{
+    height: 27px;
+    width: 178px;
+    margin-top: 162px;
+}
+
+#logo1 {
+    height: 70px;
+    width: 200px;
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+#inputs{
+    height: 400px;
+    float: left;
+}
+
+#logos{
+    float: right;
+}
+
+#botaopesquisa{
+    float: left;
+}
